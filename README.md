@@ -40,4 +40,20 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mrsajib07/Leetcode-solution/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mrsajib07/Leetcode-solution/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mrsajib07/Leetcode-solution/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mrsajib07/Leetcode-solution/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mrsajib07/Leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

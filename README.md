@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,16 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mrsajib07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

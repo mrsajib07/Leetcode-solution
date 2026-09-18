@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/mrsajib07/Leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mrsajib07/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mrsajib07/Leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mrsajib07/Leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Depth-First Search
 |  |
@@ -78,4 +80,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

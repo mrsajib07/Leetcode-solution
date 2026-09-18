@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrsajib07/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/mrsajib07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mrsajib07/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -15,6 +16,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrsajib07/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mrsajib07/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mrsajib07/Leetcode-solution/tree/master/0162-find-peak-element) |
@@ -83,6 +85,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mrsajib07/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |

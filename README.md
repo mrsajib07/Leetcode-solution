@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mrsajib07/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mrsajib07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mrsajib07/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/mrsajib07/Leetcode-solution/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mrsajib07/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mrsajib07/Leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
